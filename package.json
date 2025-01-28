@@ -42,6 +42,7 @@
   },
   "scripts": {
     "start": "node server.js",
+    "build": "npm install",
     "test": "mocha --recursive"
   }
 }
